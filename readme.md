@@ -1,6 +1,6 @@
 # Terminal Bible
 
-Are you a Linux Christian user? ~~I mean... probably very unlikely but perhaps~~
+Are you a Christian Linux user? ~~I mean... probably very unlikely but perhaps~~
 **OR**
 Are you a christian who wants to read the bible on a terminal? ~~More likely I guess~~
 
